@@ -1,2 +1,2 @@
 # RacerGame
-![racergame](https://github.com/arashizadi/RacerGame/racergame.gif)
+![racergame](https://github.com/arashizadi/Racer/raw/master/racergame.gif)
